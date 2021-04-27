@@ -1,3 +1,3 @@
 export async function getUsers() {
-  return await [{ name: "Javi" }, { name: "Núria" }];
+  return await [{ name: "Isma" }, { name: "Núria" }];
 }
