@@ -4,7 +4,7 @@ This is a repository intended to serve as a starting point if you want to bootst
 
 ## Features
 
-- [Webpack](https://webpack.js.org/) (v5)
+- [Vite](https://vitejs.dev/) (v2)
 - [Babel](https://babeljs.io/) with [preset-env](https://babeljs.io/docs/en/babel-preset-env)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/) with:
