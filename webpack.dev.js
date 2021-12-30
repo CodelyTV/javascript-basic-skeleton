@@ -7,6 +7,6 @@ module.exports = merge(common, {
   devtool: "inline-source-map",
   target: "web",
   devServer: {
-    contentBase: "./dist",
+    static: "./dist",
   },
 });
